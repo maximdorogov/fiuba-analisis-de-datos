@@ -1,0 +1,1 @@
+Repositorio para trabajos prácticos de la asignatura "Análisis de Datos" de la Especializacion en Inteligencia Artificial de la FIUBA.
